@@ -3,4 +3,5 @@ matplotlib
 numpy
 nltk
 scikit-learn
-pickle
+streamlit
+
